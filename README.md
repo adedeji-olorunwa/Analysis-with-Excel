@@ -59,4 +59,8 @@ The data used was self-created as instructed by the tutor for practices
 #### Task 4 (Employees with name that start with letter E, and employees with highest and lowest salary)
 ![](task1.png)
 
+### Conclusion
+
+From the simple analysis done i concluded that only one employee has a name that start with letter E, and this journey as data analyst is going to be full of adrenaline due to excitement 😀
+
 
